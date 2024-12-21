@@ -1,4 +1,4 @@
-# <meta name="google-site-verification" content="JV-7itQZ6JNeAorr44yBn2_bjwmpAEv2RYv1Ps6qT60" />
+<meta name="google-site-verification" content="JV-7itQZ6JNeAorr44yBn2_bjwmpAEv2RYv1Ps6qT60" />
 
 # imported-canuck.github.io
 
